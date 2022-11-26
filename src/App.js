@@ -11,7 +11,7 @@ export default function App() {
      <footer>
   This project was coded by {" "}<a href="https://github.com/vikchvk" target="_blank" rel="noreferrer" >Viktoriia Chvykova</a>
    {" "}and is{" "} <a 
-href="hhttps://github.com/vikchvk/new-react-app"
+href="https://github.com/vikchvk/new-react-app"
  target="_blank" rel="noreferrer" > open-sourced on GitHub</a>
  </footer>
     </div>

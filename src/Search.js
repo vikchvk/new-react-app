@@ -15,6 +15,8 @@ export default function Search(props) {
     setWeather({
       ready: true,
       city: response.data.name,
+      coordinates: response.data.coordinates,
+      date: new Date(response.data.time * 1000),
       temperature: response.data.main.temp,
       wind: response.data.wind.speed,
       humidity: response.data.main.humidity,

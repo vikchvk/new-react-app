@@ -21,22 +21,18 @@
     transition: all 150ms ease-in-out;
   }
   
-  .Search .current-position:hover {
-    color: #0e5ed8;
-  }
-  
   .Search  h1 {
     font-weight: 500;
     font-size: 35px;
   }
   
   .Search  p {
-    opacity: 70%;
+    opacity: 80%;
     margin-bottom: 5px;
-    font-size: 15px;
+    font-size: 20px;
   }
   .Search  .date {
-    font-size: 18px;
+    font-size: 20px;
     font-weight: 500;
   }
   .Search  ul {
@@ -50,10 +46,6 @@
   strong {
     font-weight: 500;
   }
-  .Search  img {
-    position: relative;
-    left: -20px;
-  }
   
   .temperature {
     position: relative;
@@ -61,7 +53,7 @@
     right: 35px;
     margin-right: 0;
     line-height: 60px;
-    font-size: 58px;
+    font-size: 50px;
   }
   
   .unit {

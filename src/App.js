@@ -3,6 +3,7 @@ import { createRoot } from "react-dom/client";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Search from "./Search";
 import "./App.css";
+import "./Search.css"
 
 export default function App() {
   return (
